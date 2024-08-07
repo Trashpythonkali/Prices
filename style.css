@@ -8,6 +8,26 @@
     margin-left: 470pt;
 }
 
+.priceunban {
+    display: flex;
+    margin-left: 10px;
+}
+
+.priceunban1 {
+    color: red;
+    margin-left: 5px;
+}
+
+.priceunban2 {
+    display: flex;
+}
+
+.priceunvar {
+    display: flex;
+    margin-left: 150px;
+}
+
+
 body {
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
@@ -20,7 +40,6 @@ body {
 }
 
 .prices {
-    display: flex;
     display: flex;
     justify-content: center;
     align-items: center;
