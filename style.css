@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@0;1&display=swap');
+
+body {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.pricesite {
+    margin-left: 150px;
+}
+
+.prices {
+    display: flex;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.unbanned {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.unvarn {
+    margin-left: 50px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+header {
+    display: flex;
+}
+
+.pricestr {
+    margin-left: 50px;
+    margin-top: 35px;
+}
+
+.name {
+    margin-left: 500pt;
+}
+
+.inst {
+    margin-left: 400pt;
+}
+
+.instruction-description {
+    margin-left: 125px;
+}
+
+.buyunbanned {
+    display: flex;
+}
+
+.buyunbanned2 {
+    margin-left: 50px;
+}
+
+.buy-button {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    width: 100px;
+    height: 25px;
+    margin-left: 450pt;
+    margin-top: 25px;
+}
